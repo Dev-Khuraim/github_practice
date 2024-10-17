@@ -1,1 +1,2 @@
-const name = 'sattar weds bore'
+const name = 'sattar'
+coder = 'khuraim'
